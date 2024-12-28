@@ -1,4 +1,4 @@
-# roadmapsh.learn
+# Frontend projects from Roadmap.sh [Roadmap.sh](https://roadmap.sh/frontend)
 
 ## HTML
 
@@ -11,6 +11,14 @@
 ## JavaScript
 
 1.
+
+Bellow we have a preview of the projects made in this path
+
+<p align="left">
+  <a href="html/single-page-cv">
+    <img width="48%" src="images/single-page-cv" alt="single page cv" />
+  </a>
+</p>
 
 **This repo store the main course to follow up the road map to become a full stack developer**
 
