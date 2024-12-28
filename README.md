@@ -12,13 +12,17 @@
 
 1.
 
+---
+
 Bellow we have a preview of the projects made in this path
 
-<p align="left">
+<p align="center">
   <a href="html/single-page-cv">
-    <img width="48%" src="images/single-page-cv" alt="single page cv" />
+    <img width="48%" src="images/single-page-cv.png" alt="single page cv" />
   </a>
 </p>
+
+---
 
 **This repo store the main course to follow up the road map to become a full stack developer**
 
